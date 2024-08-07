@@ -1,7 +1,7 @@
 name: django workflow
 on: 
   push:
-    branches: ["daphine"]
+    branches: ["main"]
 
 jobs:
   build:
@@ -20,6 +20,6 @@ jobs:
 
       
 
-      
+
 
 
